@@ -1,0 +1,15 @@
+
+.bg-one{
+    background-image: url('../src/assets/gym\ back-one.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg-two{
+    background-image: url('../src/assets/b&w\ dumbbles.webp');
+}
+.bg-three{
+    background-image: url('../src/assets/Nutrition.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
